@@ -1,5 +1,5 @@
 # Employer-Ready-Portfolio:
-<img src="assets/images/Employer-Ready-portfolio.png" alt="Employer-Ready-portfolio Picture>/img">  
+<img src="assets/images/Employer-Ready-Portfolio.png" alt="Employer-Ready-portfolio Picture>/img">  
 # Project-3
 
 This application allows users to view a collection (the Foodbook) of user-generated recipes, and create an account to add their own recipes to the Foodbook. This projct was completed using MERN stack. React provides the front-end and JavaScript library. MongoDB is the datbase to store recipes and user data.
